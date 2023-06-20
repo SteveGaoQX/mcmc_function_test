@@ -15,3 +15,5 @@ LinkingTo:
     RcppArmadillo
 Imports: 
     Rcpp
+URL: https://github.com/SteveGaoQX/mcmcpackage
+BugReports: https://github.com/SteveGaoQX/mcmcpackage/issues
